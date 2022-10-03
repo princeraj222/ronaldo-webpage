@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+}
+p{
+    color: grey;
+    font-family: cursive; 
+    text-align: center;
+   }
+
+h1{
+    font-size: 70px;
+    color: white;
+    background-color: rgb(227, 35, 35);
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+h2{
+    font-size: 44;
+    color: black;
+    font-family: cursive;
+}
+
+h3{
+    font-size:38px ;
+    font-family: cursive;
+}
+
+h4{
+    color: rgb(21, 20, 20);
+    font-size: 38px;
+    font-family: cursive;
+}
+
+h5{
+    font-size: 38px;
+    font-family: cursive;
+}
+
+h6{
+    font-size: 38px;
+    font-family: cursive;
+}
+
+h7{
+    font-size: 50px;
+    color: black;
+    font-family: cursive;
+}
